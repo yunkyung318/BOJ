@@ -1,0 +1,29 @@
+﻿  11021.c
+c:\users\dbsru\source\repos\boj3\boj3\11021.c(9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\users\dbsru\source\repos\boj3\boj3\11021.c(15): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+  11022.c
+c:\users\dbsru\source\repos\boj3\boj3\11022.c(9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\users\dbsru\source\repos\boj3\boj3\11022.c(15): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+  2439.c
+c:\users\dbsru\source\repos\boj3\boj3\2439.c(7): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+  2739.c
+c:\users\dbsru\source\repos\boj3\boj3\2739.c(7): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+  2742.c
+c:\users\dbsru\source\repos\boj3\boj3\2742.c(6): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+  코드를 생성하고 있습니다...
+11021.obj : error LNK2005: _main이(가) 10950.obj에 이미 정의되어 있습니다.
+11022.obj : error LNK2005: _main이(가) 10950.obj에 이미 정의되어 있습니다.
+15552.obj : error LNK2005: _main이(가) 10950.obj에 이미 정의되어 있습니다.
+2439.obj : error LNK2005: _main이(가) 10950.obj에 이미 정의되어 있습니다.
+2739.obj : error LNK2005: _main이(가) 10950.obj에 이미 정의되어 있습니다.
+2741.obj : error LNK2005: _main이(가) 10950.obj에 이미 정의되어 있습니다.
+2742.obj : error LNK2005: _main이(가) 10950.obj에 이미 정의되어 있습니다.
+8393.obj : error LNK2005: _main이(가) 10950.obj에 이미 정의되어 있습니다.
+C:\Users\dbsru\source\repos\BOJ3\Debug\BOJ3.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
